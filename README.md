@@ -8,12 +8,12 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 - ⚡ Curiosity: I have two dogs, Zoe and Poppy
 ### My projects
 
-[! [Bloc] (https://github.com/CeruttiMaicon/Porfolio-VueJS-3] (https://github.com/CeruttiMaicon/Porfolio-VueJS-3)
-[! [Challenge Multiplier API] (https://github.com/CeruttiMaicon/Challenge-Multiplier-API)] (https://github.com/CeruttiMaicon/Challenge-Multiplier-API)
-[! [Challenge Multiplier Nuxt] (https://github.com/CeruttiMaicon/Challenge-Multiplier-Nuxt)] (https://github.com/CeruttiMaicon/Challenge-Multiplier-Nuxt)
-[! [Fresh] (https://github-readme-stats.vercel.app/api/pin/?username=CeruttiMaicon&repo=fresh)] (https://github.com/CeruttiMaicon/fresh)
-[! [Laravel Test Unitario] (https://github.com/CeruttiMaicon/Laravel_Test_Unitario)] (https://github.com/CeruttiMaicon/Laravel_Test_Unitario)
-[! [Challenge Eleve] (https://github.com/CeruttiMaicon/Challenge_Eleve)] (https://github.com/CeruttiMaicon/Challenge_Eleve)
+[![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=CeruttiMaicon&repo=bloc)](https://github.com/CeruttiMaicon/Porfolio-VueJS-3)
+[![Bloc.js](https://github-readme-stats.vercel.app/api/pin/?username=CeruttiMaicon&repo=bloc.js)](https://github.com/CeruttiMaicon/Challenge-Multiplier-API)
+[![Equatable](https://github-readme-stats.vercel.app/api/pin/?username=CeruttiMaicon&repo=equatable)](https://github.com/CeruttiMaicon/Challenge-Multiplier-Nuxt)
+[![Fresh](https://github-readme-stats.vercel.app/api/pin/?username=CeruttiMaicon&repo=fresh)](https://github.com/felangel/CeruttiMaicon)
+[![FlowBuilder](https://github-readme-stats.vercel.app/api/pin/?username=CeruttiMaicon&repo=flow_builder)](https://github.com/CeruttiMaicon/Laravel_Test_Unitario)
+[![InheritedStream](https://github-readme-stats.vercel.app/api/pin/?username=CeruttiMaicon&repo=inherited_stream)](https://github.com/felangel/inherited_stream)
 
 ### Github Stats
 
