@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**CeruttiMaicon/CeruttiMaicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer working as a programmer at [Multiplier] (https://multiplier.com.br/) in Jaraguá do Sul, Brazil 🌆
 
-Here are some ideas to get you started:
+- <3 I love Laravel + Vue + TailwindCSS
+- 🧑‍💻 I like to collaborate on open source projects.
+- 💬 I have my documentation hehe [ceruttimaicon] (ceruttimaicon.js.org).
+- ⚡ Curiosity: I have two dogs, Zoe and Poppy
+### My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[! [Bloc] (https://github.com/CeruttiMaicon/Porfolio-VueJS-3] (https://github.com/CeruttiMaicon/Porfolio-VueJS-3)
+[! [Challenge Multiplier API] (https://github.com/CeruttiMaicon/Challenge-Multiplier-API)] (https://github.com/CeruttiMaicon/Challenge-Multiplier-API)
+[! [Challenge Multiplier Nuxt] (https://github.com/CeruttiMaicon/Challenge-Multiplier-Nuxt)] (https://github.com/CeruttiMaicon/Challenge-Multiplier-Nuxt)
+[! [Fresh] (https://github-readme-stats.vercel.app/api/pin/?username=CeruttiMaicon&repo=fresh)] (https://github.com/CeruttiMaicon/fresh)
+[! [Laravel Test Unitario] (https://github.com/CeruttiMaicon/Laravel_Test_Unitario)] (https://github.com/CeruttiMaicon/Laravel_Test_Unitario)
+[! [Challenge Eleve] (https://github.com/CeruttiMaicon/Challenge_Eleve)] (https://github.com/CeruttiMaicon/Challenge_Eleve)
+
+### Github Stats
+
+[! [Felix's Github Stats] (https://github-readme-stats.vercel.app/api?username=CeruttiMaicon&count_private=true&theme=default&show_icons=true)] (https://github.com/CeruttiMaicon)
