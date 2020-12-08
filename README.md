@@ -16,8 +16,8 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 <a href="https://t.me/CeruttiMaicon">
   <img align="left" alt="Maicon Cerutti Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=5547984294833&text=Olá eu sou o Maicon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"> 
-  <img align="left" alt="Maicon Cerutti Whattsapp" />
+<a href="https://api.whatsapp.com/send?phone=5547984294833&text=Olá eu sou o Maicon"> 
+  <img align="left" alt="Maicon Cerutti Whattsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
 </a>
 
 <br/>
