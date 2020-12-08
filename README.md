@@ -8,16 +8,15 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 - ⚡ Curiosity: I have two dogs, Zoe and Poppy
 
 <a href="https://www.linkedin.com/in/maicon-cerutti-516918114/">
-  <img align="left" alt="Amir Hosein Salimi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Maicon Cerutti Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/CeruttiMaicon">
-  <img align="left" alt="Amir Hosein Salimi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="CeruttiMaicon Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<!-- Descobrir como faço o meu link hehe
-<a href="https://t.me/amirhoseinsalimii">
-  <img align="left" alt="Amir Hosein Salimi's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/CeruttiMaicon">
+  <img align="left" alt="Maicon Cerutti Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
--->
+
 <br/>
 
 ### Languages
