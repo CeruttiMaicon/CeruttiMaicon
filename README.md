@@ -21,6 +21,9 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 </a>
 
 <br/>
+<br/>
+
+### Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CeruttiMaicon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
