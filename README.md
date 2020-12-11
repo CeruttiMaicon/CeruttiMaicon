@@ -8,16 +8,16 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 - ⚡ Curiosity: I have two dogs, Zoe and Poppy
 
 <a href="https://www.linkedin.com/in/maicon-cerutti-516918114/">
-  <img align="left" alt="Maicon Cerutti Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Maicon Cerutti Linkdein" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />
 </a>
 <a href="https://twitter.com/CeruttiMaicon">
-  <img align="left" alt="CeruttiMaicon Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="CeruttiMaicon Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" />
 </a>
 <a href="https://t.me/CeruttiMaicon">
-  <img align="left" alt="Maicon Cerutti Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Maicon Cerutti Telegram" width="22px" src="https://i.pinimg.com/originals/d5/fb/b9/d5fbb9d51bdb8b1c462aba853d029c3b.png" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5547984294833&text=Olá eu sou o Maicon"> 
-  <img align="left" alt="Maicon Cerutti Whattsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
+  <img align="left" alt="Maicon Cerutti Whattsapp" width="22px" src="https://img.icons8.com/cotton/2x/whatsapp--v2.png"/>
 </a>
 
 <br/>
