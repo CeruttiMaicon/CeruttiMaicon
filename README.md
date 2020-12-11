@@ -29,7 +29,7 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 
 ### Github Stats
 
-[![CeruttiMaicon Github Stats](https://github-readme-stats.vercel.app/api?username=CeruttiMaicon&count_private=true&theme=default&show_icons=true)](https://github.com/CeruttiMaicon)
+[![CeruttiMaicon Github Stats](https://github-readme-stats.vercel.app/api?username=CeruttiMaicon&count_private=true&theme=default&show_icons=true)](https://github-readme-stats.vercel.app)
 
 ### Languages
 
