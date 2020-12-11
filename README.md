@@ -25,12 +25,12 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 
 ### Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CeruttiMaicon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CeruttiMaicon&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Github Stats
 
-[![CeruttiMaicon Github Stats](https://github-readme-stats.vercel.app/api?username=CeruttiMaicon&count_private=true&theme=algolia&show_icons=true)](https://github-readme-stats.vercel.app)
+[![CeruttiMaicon Github Stats](https://github-readme-stats.vercel.app/api?username=CeruttiMaicon&count_private=true&theme=dracula&show_icons=true)](https://github-readme-stats.vercel.app)
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeruttiMaicon&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeruttiMaicon&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
