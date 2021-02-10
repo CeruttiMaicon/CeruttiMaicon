@@ -22,7 +22,9 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 
 <br/>
 <br/>
+
 ## Metrics
+
 Thanks to [metrics.lecoq.io](https://metrics.lecoq.io/)
 
 ![Metrics](https://metrics.lecoq.io/CeruttiMaicon?template=classic&followup=1&config.timezone=Europe%2FMadrid)
