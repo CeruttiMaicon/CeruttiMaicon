@@ -34,3 +34,8 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeruttiMaicon&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## Metrics
+Thanks to [metrics.lecoq.io](https://metrics.lecoq.io/)
+
+![Metrics](https://metrics.lecoq.io/CeruttiMaicon?template=classic&followup=1&config.timezone=Europe%2FMadrid)
