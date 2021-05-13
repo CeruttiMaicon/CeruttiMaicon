@@ -1,3 +1,5 @@
+<img align="right" src="https://sentralservers.files.wordpress.com/2016/08/when-the-design-failings-we_ve-been-warning-of-since-forever-finally-bite-hard.gif" />
+
 ### Hello 👋
 
 I'm a software engineer working as a programmer at [Multiplier](https://multiplier.com.br/) in Jaraguá do Sul, Brazil 🌆
