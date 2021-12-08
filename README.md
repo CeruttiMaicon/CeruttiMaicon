@@ -1,5 +1,7 @@
 <img align="right" src="https://sentralservers.files.wordpress.com/2016/08/when-the-design-failings-we_ve-been-warning-of-since-forever-finally-bite-hard.gif" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CeruttiMaicon&label=Profile%20views&color=0e75b6&style=flat" alt="CeruttiMaicon" /> </p>
+
 ### Hello 👋
 
 I'm a software engineer working as a programmer at [Multiplier](https://multiplier.com.br/) in Jaraguá do Sul, Brazil 🌆
