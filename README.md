@@ -20,7 +20,7 @@ I'm a software engineer working as a programmer at [Multiplier](https://multipli
 <a href="https://t.me/CeruttiMaicon">
   <img align="left" alt="Maicon Cerutti Telegram" width="22px" src="https://i.pinimg.com/originals/d5/fb/b9/d5fbb9d51bdb8b1c462aba853d029c3b.png" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=5547984294833&text=Olá eu sou o Maicon"> 
+<a href="https://api.whatsapp.com/send?phone=5547984294833&text=Olá tudo bem? Achei seu perfil no GitHub interessante"> 
   <img align="left" alt="Maicon Cerutti Whattsapp" width="22px" src="https://img.icons8.com/cotton/2x/whatsapp--v2.png"/>
 </a>
 
